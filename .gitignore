@@ -5,7 +5,6 @@ __pycache__/
 *.pyc
 .DS_Store
 *.ipynb_checkpoints/
-evaluation_results.json
 confusion_matrix.png
 data/_rss_tmp.xml
 data/*.rss
