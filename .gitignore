@@ -1,0 +1,13 @@
+.env
+.venv/
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+*.ipynb_checkpoints/
+evaluation_results.json
+confusion_matrix.png
+data/_rss_tmp.xml
+data/*.rss
+data/rss_pages/
+report/demo_narration.md
